@@ -85,25 +85,19 @@ Logic-Gates/
 
 ## Verilog Source Code
 
-![Verilog Code](code.png)
-
----
+![Verilog Code](images/code.png)
 
 ## Testbench
 
-![Testbench](testbench.png)
-
----
+![Testbench](images/testbench.png)
 
 ## RTL Schematic
 
-![RTL Schematic](rtl_schematic.png)
-
----
+![RTL Schematic](images/rtl_schematic.png)
 
 ## Simulation Waveform
 
-![Simulation Waveform](simulation_waveform.png)
+![Simulation Waveform](images/simulation_waveform.png)
 
 ---
 
